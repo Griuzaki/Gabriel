@@ -7,7 +7,7 @@ I'm Gabriel Alves Ribeiro, I'm a Front End programmer, I'm currently learning an
 
   <img height="22px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 </section>
-  <strong>Iniciando o aprendizado: :wolf:</strong>
+  <strong>Starting the learning: :wolf:</strong>
 <section>
   <img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js-logo">
 
