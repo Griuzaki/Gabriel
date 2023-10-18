@@ -1,6 +1,6 @@
 ### <em> Hi there 👋:full_moon_with_face::video_game:</em>
 
-Eu sou o Gabriel Alves Ribeiro, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+I'm Gabriel Alves Ribeiro, I'm a Front End programmer, I'm currently learning and creating projects with:
 
 <section>
   <img width="70px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo">
