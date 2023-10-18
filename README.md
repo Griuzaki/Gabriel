@@ -13,7 +13,7 @@ I'm Gabriel Alves Ribeiro, I'm a Front End programmer, I'm currently learning an
 
   <img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </section>
-  <strong>Rede Social :globe_with_meridians: </strong>
+  <strong>Social Network :globe_with_meridians: </strong>
 <section><a href="https://www.instagram.com/gabriel_griuzaki/"><img width="100px" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo">
 
 <a href="https://www.linkedin.com/in/gabriel-alves-ribeiro-b7664b208/"> <img width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo">
